@@ -25,7 +25,3 @@ A sleek temperature converter web app built with HTML, CSS, and vanilla JavaScri
 1. Enter a temperature value in the input field
 2. Select a conversion type using the radio buttons
 3. Click **Convert** to see the result
-
-## Live Demo
-
-[Click here to view the live site](https://syed-asad-745.github.io/temperature-converter)
