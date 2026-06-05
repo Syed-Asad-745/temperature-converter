@@ -10,6 +10,10 @@ A sleek temperature converter web app built with HTML, CSS, and vanilla JavaScri
 - Custom black and orange themed UI with glowing accents and dark grid background
 - Monospace number input and responsive card layout
 
+## Preview
+
+![Temperature Converter](screenshot.png)
+
 ## Tech Stack
 
 - HTML
